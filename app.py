@@ -19,7 +19,7 @@ def get_color(label):
 # CONFIG PAGE
 # =========================
 st.set_page_config(
-    page_title="Analisis Sentimen",
+    page_title="Analisis Sentimen Opini Publik Terhadap Kinerja Presiden Prabowo",
     page_icon="📊",
     layout="centered"
 )
